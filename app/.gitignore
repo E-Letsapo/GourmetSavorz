@@ -1,1 +1,7 @@
 /build
+build.gradle
+credentials.json
+google-services.json
+gourmet-savorz-54956-default-rtdb-export.json
+my-keystore.jks
+proguard-rules.pro
